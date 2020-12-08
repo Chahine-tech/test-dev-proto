@@ -2,8 +2,6 @@ class Prof {
     constructor(name, firstname) {
             this.name = name;
             this.firstname = firstname
-
-
     }
     enseigne () {
         console.log(`${this.name} ${this.firstname} enseigne a efrei!`)
